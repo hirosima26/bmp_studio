@@ -59,6 +59,8 @@
     --normal-font-size: 1rem;
     --small-font-size: 0.875rem;
     --smaller-font-size: 0.813rem;
+    --font-family: 'Great Vibes', cursive;
+
   }
 }
 
@@ -1137,7 +1139,7 @@ background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 
   .home__social::after {
     transform: rotate(90deg) translate(16px, -1px);
     font-family: 'Great Vibes', cursive;
-    
+
   }
 
   .home__scroll-icon {
